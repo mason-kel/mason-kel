@@ -1,4 +1,4 @@
-I recently graduated with a 1st Class Computer Science BSc (Hons) degree. I am interested in software development, networking and AI, and am currently looking for graduate/junior software engineering opportunities.
+I recently graduated with a 1st Class Computer Science BSc (Hons) degree from Lancaster University. I am interested in software development, networking and AI, and am currently looking for graduate/junior software engineering opportunities.
 
 # Projects
 
@@ -18,11 +18,13 @@ https://doi.org/10.1002/3070-5436.70001
 
 
 ## University Projects
+(University projects are not public due to University policies)
 * Dissertation - Developed an LLM-driven robotic control system that translated natural language instructions into structured XML commands using a custom Python API, enabling autonomous task execution and error recovery.
 * MLP implementation from scratch - Used Python with NumPy to implement a multi-layer perceptron and deep learning model including batch normalisation and dropout.
 * Image Matching pipeline - Implemented an image matching pipeline using Difference of Gaussians, SIFT and distance matrices.
 * P4 Networking - Implemented NAT, PAT and port forwarding using P4, Scapy and Flask.
 
 ## Personal Projects
+(Some projects are not public due to containing third-party code/assets that I don't have permission to redistribute)
 * Tower defense game - Prototype developed in Godot which combined a tower defense game with Vampire Survivors elements. Included object pooling, branching tower and weapon upgrade paths and curve-based enemy spawning.
 * P2P multiplayer - Prototype developed in Godot for P2P multiplayer using Steam's networking API.
